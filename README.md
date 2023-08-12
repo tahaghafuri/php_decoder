@@ -1,3 +1,7 @@
 # First Read This
-I have all the php decodes, this has become worthless to me, as I now have my own technology and work on newer, more modern names and projects.<br>
+I Have All The PHP Decodes, This Has Become Worthless To Me, As I Now Have My Own Technology And Work On Newer, More Modern Names And Projects.<br>
 Bye
+# Read This
+Some Very Interesting Sentences From Ioncube:<br>
+"A rat who gnaws at a cat's tail invites destruction"<br>
+"Do good, reap good; do evil, reap evil."
