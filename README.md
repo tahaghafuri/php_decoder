@@ -1,3 +1,2 @@
-# First Read This
-I Have All The PHP Decodes, This Has Become Worthless To Me, As I Now Have My Own Technology And Work On Newer, More Modern Names And Projects.<br>
-Bye
+# Accepting Decryption Requests
+Our software was under development and we are proud to announce that we can accept requests to decrypt files. The price range will be different for each file. Contact us for decryption requests.
