@@ -1,4 +1,4 @@
-# Accepting Decryption Requests
-Our software was under development and we are proud to announce that we can accept requests to decrypt files. The price range will be different for each file. Contact us for decryption requests.
-# New
-In the next few days, the online site for decoding ioncube, sourceguardian, phpbolt, phpshadow, and evaldecode files will be launched.
+# Important Announcement
+The process of accepting the decryption of PHP encryption files has started, if you intend to cooperate with us, contact us through the following email: <br><a href="mailto:info@tahaghafuri.ir">info@tahaghafuri.ir</a>.
+# Significant
+Cooperation is possible only with qualified people!
