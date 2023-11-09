@@ -12,5 +12,4 @@ More than 20 files - $9<br>
 Under 20 files - $10<br>
 # Our Online Decoder
 <a href="https://phpdezend.xyz">PHPDEZEND</a>
-# Special discount for regular customers!
-# Do not apply for the test file, the test file will not be accepted under any circumstances.
+# A very nice message for a dear Turkish friend who is looking for my decoder: You will never reach him.
