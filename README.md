@@ -11,5 +11,10 @@ More than 50 files - $8<br>
 More than 20 files - $9<br>
 Under 20 files - $10<br>
 # Our Online Decoder
+The problem will be solved soon. . .<br>
 <a href="https://phpdezend.xyz">PHPDEZEND</a>
-# A very nice message for a dear Turkish friend who is looking for my decoder: You will never reach him.
+# Donate US
+BTC: 1Jpawq4JAXHg5Bt2yt9nAs5Z5qcbSdwwQB<br>
+USDT(ERC20): 0x18773d861b3b43d1d1c9363961a099d66bfe4ad5<br>
+USDT(TRC20): TSSMmq7qStxDfffRwfkq1gsSjrb1z6iLqF<br>
+ETH(ERC20): 0x18773d861b3b43d1d1c9363961a099d66bfe4ad5<br> 
