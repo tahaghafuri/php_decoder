@@ -1,5 +1,8 @@
 # Important Announcement
 The process of accepting the decryption of PHP encryption files has started, if you want to cooperate with us, contact us from GitHub below.: <br>[Contact US](https://github.com/tahaghafuri/php_decoder/issues).
+# PHPBolt Prices
+More than 30 files - $3<br>
+Under 20 files - $4<br>
 # Plesk Prices
 More than 100 files - $2<br>
 More than 20 files - $3<br>
